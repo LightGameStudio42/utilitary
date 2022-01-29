@@ -1,1 +1,33 @@
+2.6.8
+- Added political journal
+- Redesign of the president office and some UIs
+- Wide maps for wide displays
+- Fixed bugs
+- Fixed a bug that caused a gender change
+- Fixed (?) a bug due to which ads were shown to people with disabled ads
+- Fixed (?) a bug due to which the text disappeared after the start of the battle
+- (Unsuccessful attempt to implement level saving and the ability to download music)
 
+2.6.7
+- With teletype, the text size does not change
+- If the attack turned the soldier purple: you can now turn off combat effects in the settings menu
+- The border is highlighted correctly
+(There is a bug in the version due to which the ads disable does not work)
+
+2.6.6
+- New character
+- More newspapers
+
+2.6.5
+- Added new offers and event
+- Electricity grid
+- Dystopia can arrange a nuclear war
+- Added political action menu
+- War can be started from day 5
+- The current epidemics are displayed in the new day menu
+- Added a portrait if you're playing as a woman
+
+2.6.4
+- Now you can choose a painting right in the office. The resulting pictures are saved automatically from game to game.
+Introducing a new character: Dr. Avicene! New businesses and increased business taxes.
+Have a good game!
