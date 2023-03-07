@@ -1,3 +1,21 @@
+2.6.9.1 и 2.6.9.2
+- Bugfixes
+- Event timing is now timed by days (e.g. research instead of 40 seconds should wait 2 days)
+
+2.6.9
+- Added menu for viewing endings
+- Improved graphics, updated and animated UI
+- Slightly updated texts
+Notes are disabled for now.
+
+2.6.8.5
+Improved stability of the game. Work on the new content is in progress.
+
+17.5 Preparing for update release.
+Known problems: game restart does not work
+
+6.3 Support for the Android stopped due to the cancellation of SWIFT in Russia.
+
 2.6.8
 - Added political journal
 - Redesign of the president office and some UIs
