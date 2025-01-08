@@ -1,4 +1,4 @@
-2.6.9.1 и 2.6.9.2
+2.6.9.1 and 2.6.9.2
 - Bugfixes
 - Event timing is now timed by days (e.g. research instead of 40 seconds should wait 2 days)
 
